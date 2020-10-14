@@ -58,12 +58,15 @@ function OrphanagesMap() {
                         position={[orphanage.latitude, orphanage.longitude]}
                         key={orphanage.id}
                         >
-                    <Popup closeButton={false} minWidth={248} maxWidth={248} className="map-popup">
+                    <Popup 
+                        closeButton={false} 
+                        minWidth={248} 
+                        maxWidth={248} 
+                        className="map-popup"
+                    >
                         {orphanage.name}
                         <Link to={`/orphanages/${orphanage.id}`}>
-                            <a href="">
                                 <FiArrowRight size={20} color="#FFF"/>
-                            </a>
                         </Link>
                     </Popup>    
                 </Marker>
