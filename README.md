@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/b0g9wlasxh/Readme_Images/Happy/logo_Y8EclYCnB.svg" width="150" >
+  <img src="https://ik.imagekit.io/b0g9wlasxh/Readme_Images/Happy/banner_eGL95L5B3.png" width="300" >
 </p>
 
 ## 📋 Índice
