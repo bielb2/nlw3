@@ -6,7 +6,7 @@
 
 - [Sobre](#-Sobre)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Como executar o projeto](#-Como-executar-o-projeto) ** Em breve
 - [Preview](#-Preview)
 
 ---
